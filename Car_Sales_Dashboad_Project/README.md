@@ -1,6 +1,6 @@
 # Car Sales Analysis-Dashboard
 
-### Dashboard Link :
+### Dashboard Link  :
 (https://github.com/CHARLES-GitHub-2002/Power_Bi/blob/main/Car_Sales%20Power_BI%20Project.pbit)
 ## Project Overview 
 This project focuses on analyzing the revenue and sales data for a car sales company, with a particular focus on South Africa and Botswana. The goal is to provide insightful visualizations and analyses that help understand the sales performance across different countries, identify the top-selling cars, and provide an overview of the revenue and sales distribution across various cities and dealers. The project was built using Power BI, a robust tool for data visualization and business intelligence..
